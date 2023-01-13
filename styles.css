@@ -1,1 +1,35 @@
-
+.project{
+    
+   
+    display: flex;
+    height: auto;
+    width: auto;
+   
+    margin: 4rem 30%;
+    
+}
+.sedans{
+    border-radius: 23px 0px 0px 23px;
+    background-color: coral;
+   display: grid;
+    
+        height: 400px;
+}
+h2{
+color: rgb(0, 0, 0);
+}
+p{
+   
+}
+.suvs{
+    background-color:cadetblue;
+   
+    display: grid;
+    height: 400px;
+}
+.luxury{
+    border-radius: 0px 23px 23px 0px;
+    background-color: rgb(144, 86, 219);
+    height: 400px;
+    display: grid;
+}
